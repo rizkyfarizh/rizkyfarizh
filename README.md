@@ -1,7 +1,7 @@
 # 👋 Hi, I'm rizkyfarizh!
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studied [Informatics Engineering](https://poltekharber.ac.id/) at the University of politeknik harapa bersama tegal, Indonesia<br/>
-🎨 Making videos about Computer Science, tech, and productivity on [YouTube](https://youtube.com/@rizkyfarizh365?si=-5SkoEPzVoTsb8bP)<br/>
+🎨 Making videos about Informatics Engineering, tech, and productivity on [YouTube](https://youtube.com/@rizkyfarizh365?si=-5SkoEPzVoTsb8bP)<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=rizkyfarizh&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>

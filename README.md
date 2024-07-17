@@ -1,6 +1,6 @@
 # 👋 Hi, I'm rizkyfarizh!
-👩🏻‍💻 Informatics Engineering sharing about my journey and learnings in tech<br/>
-👩🏻‍🎓 Studied [Informatics Engineering](https://poltekharber.ac.id/) at the University of politeknik harapa bersama tegal, Indonesia<br/>
+ Informatics Engineering sharing about my journey and learnings in tech<br/>
+ Studied [Informatics Engineering](https://poltekharber.ac.id/) at the University of politeknik harapa bersama tegal, Indonesia<br/>
 🎨 Making videos about Informatics Engineering, tech, and productivity on [YouTube](https://youtube.com/@rizkyfarizh365?si=-5SkoEPzVoTsb8bP)<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
